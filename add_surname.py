@@ -1,6 +1,6 @@
 # Author: Paul Quaife
 # Date: 2/12/2021
-# Description: Takes a list of numbers. The function should return the statistical median of those numbers.
+# Description: Takes a list of names, then adds surname Kardashian.
 
 def add_surname(first_names_list):
 
